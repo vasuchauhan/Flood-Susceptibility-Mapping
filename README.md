@@ -41,6 +41,16 @@ The project uses multiple geographical factors as input features:
   - Scikit-learn
   - Scikit-Optimize
 
+
+### Resources
+
+- [Final Map](/docs/KULLU2.png)
+- [Flood Susceptibility Excel Sheet](/docs/Flood_Susceptibility_Factors.xlsx)
+
+
+
 ## Installation
 ```bash
 pip install numpy rasterio scikit-learn scikit-optimize
+
+
